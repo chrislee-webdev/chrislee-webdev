@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chrislee-webdev
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in a career in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Full Stack Web Development at the University of Minnesota - Twin Cities
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: leechrs1@gmail.com
 
